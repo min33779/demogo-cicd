@@ -1,3 +1,7 @@
+# 전체 아키텍처
+
+	![Alt](./images/overall-architecture.png "overall-architecture")
+
 # CodeCommit 리포지토리 생성하기
 
 1. 다음의 링크에서 [https://console.aws.amazon.com/codesuite/codecommit/home](https://console.aws.amazon.com/codesuite/codecommit/home) 에서 CodeCommit 콘솔을 엽니다.
