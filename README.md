@@ -4,7 +4,7 @@
 
 본 HOL 통해서 아래와 같은 아키텍처를 구성합니다. 이번 실습을 통하여 Code Pipeline으로 파이프라인을 생성하여 지속적으로 소스를 빌드하고 배포합니다.
 
-	![Alt](./images/overall-architecture.png "overall-architecture")
+![Alt](images/overall-architecture.png "overall architecture")
 
 # CodeCommit 리포지토리 생성하기
 
