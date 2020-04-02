@@ -232,7 +232,7 @@ Username for 'https://git-codecommit.ap-northeast-2.amazonaws.com':
 
 1. 이름 페이지의 파이프라인 이름 상자에 해당 파이프라인 이름을 입력한 후 다음 단계를 선택합니다. 이 자습서에서 파이프라인 이름은 **dogs-cicd** 입니다. 나머지 항목은 디폴트로 둡니다.
 
-    ![Alt](../images/create-pipeline.png "create pipeline")
+    ![Alt](./images/create-pipeline.png "create pipeline")
 
 2. Add Source Stage에서는 다음과 같이 입력을 하고 Next버튼을 누릅니다.
 
