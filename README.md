@@ -1,5 +1,9 @@
 # 전체 아키텍처
 
+> **본 Hands on Lab은 SEOUL region( ap-northeast-2 ) 을 기준으로 작성되었습니다. 실습을 하실 때 반드시 리전을 확인하기 바랍니다. 또한 DemoGo - Amazon ECS Cats and Dogs 환경을 그대로 사용하므로, 본 실습 전에 선행 조건으로써 DemoGo Fargate/ECR 환경이 구성되어 있어야 합니다.**
+
+본 HOL 통해서 아래와 같은 아키텍처를 구성합니다. 이번 실습을 통하여 Code Pipeline으로 파이프라인을 생성하여 지속적으로 소스를 빌드하고 배포합니다.
+
 	![Alt](./images/overall-architecture.png "overall-architecture")
 
 # CodeCommit 리포지토리 생성하기
