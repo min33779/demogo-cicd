@@ -42,22 +42,20 @@
 
 3. 목록에서 연결하려는 리포지토리명을 클릭합니다. 그러면 해당 리포지토리의 코드 페이지가 열립니다.
 
-4. Step 3: Clone the repository 항목에 있는 명령어를 Copy버튼을 눌러서 복사합니다.
+4. 우측 상단의 Clone URL > Clone HTTPs 버튼을 눌러서 Git 리포지토리 URL을 복사합니다.
 
     ![Alt](./images/copy-codecommit-repo-url.png "generate git credential")
 
 5. Amazon EC2 Workstation 의 터미널 화면으로 이동 후, 아래 명령어로 git 를 설치합니다.
 
 	```bash
-	yum install -y git
+	sudo yum install -y git
 	```
 	
 6. 사용자의 홈 디렉토리 아래 dogs 디렉토리를 만들고 해당 디렉토리로 이동합니다. 터미널에서 아래의 명령어를 실행합니다.
 
      ```bash
      cd ~
-	 mkdir dogs
-	 cd ~/dogs
      ```
 
 7. 터미널 화면에서 위의 4에서 복사한 명령어를 붙여넣고 실행합니다. 그럼 다음과 같은 화면을 볼 수 있습니다.
