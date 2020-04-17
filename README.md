@@ -38,7 +38,7 @@
 
 1. [https://console.aws.amazon.com/codesuite/codecommit/home](https://console.aws.amazon.com/codesuite/codecommit/home) 에서 CodeCommit 콘솔을 엽니다.
 
-2. 오른쪽 상단에서 리전 선택메뉴에서 oregon 리전을 선택합니다. 리포지토리는 한 AWS 리전에 국한됩니다.
+2. 오른쪽 상단에서 리전 선택메뉴에서 Seoul 리전을 선택합니다. 리포지토리는 한 AWS 리전에 국한됩니다.
 
 3. 목록에서 연결하려는 리포지토리명을 클릭합니다. 그러면 해당 리포지토리의 코드 페이지가 열립니다.
 
