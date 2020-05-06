@@ -355,6 +355,5 @@ Username for 'https://git-codecommit.ap-northeast-2.amazonaws.com':
 7. Code Pipeline 삭제
 8. Code commit 리포지토리 삭제
 9. Code build 프로젝트 삭제
-10. Cloud9 워크스페이스 삭제
-11. VPC 삭제
-"# demogo-cicd" 
+10. VPC 삭제
+
