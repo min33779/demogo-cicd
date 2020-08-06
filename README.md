@@ -119,7 +119,7 @@ Username for 'https://git-codecommit.ap-northeast-2.amazonaws.com':
     nothing to commit (create/copy files and use "git add" to track)
     ```
 
-4. vi 커멘드 등으로 **buildspec.yml" 파일을 추가합니다.
+4. vi 커멘드 등으로 **buildspec.yml** 파일을 추가합니다.
 
     > 대소문자에 유의해서 입력합니다. 파일명은 **buildspec.yml** 입니다.
 
