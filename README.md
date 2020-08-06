@@ -84,9 +84,10 @@ Username for 'https://git-codecommit.ap-northeast-2.amazonaws.com':
     ls -al ~/catsdogs/dogs/
     ```
 
-2. 다음의 명령어를 실행하여 dogs 디렉토리의 파일들을 복사 해옵니다.
+2. 다음의 명령어를 실행하여 dogs 디렉토리로 이동 후 기존 파일들을 복사 해옵니다.
 
     ```bash
+	cd ~/dogs
     cp ~/catsdogs/dogs/* ./
     ```
 
@@ -259,7 +260,7 @@ Username for 'https://git-codecommit.ap-northeast-2.amazonaws.com':
         - Environment Image: **Managed Image**
         - Operating System: **Ubuntu**
         - Runtime: **Standard**
-        - Image: **aws/codebuild/standard:1.0**
+        - Image: **aws/codebuild/standard:3.0**
         - **Privileged 옵션 체크**
         > Privileged 옵셥을 체크하지 않는다면 Code build에서 도커 이미지를 빌드할 수 없습니다
         - Continue to CodePipeline 버튼을 누릅니다
